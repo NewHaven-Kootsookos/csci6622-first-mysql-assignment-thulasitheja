@@ -1,2 +1,2 @@
-use 'chinook';
-select * from chinook where CategoryID = 5
+use northwind;
+select * from category where CategoryID = 5;
