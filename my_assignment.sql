@@ -1,2 +1,2 @@
-use northwind;
-select * from northwind where CategoryID = 5
+use chinook;
+select * from chinook where CategoryID = 5
